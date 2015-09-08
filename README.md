@@ -30,7 +30,7 @@
   * HomeVC.swift
   * HomeVM.swift
 
-####Hints####
+######Hints######
 - Name should be: *Controller*VC
 - Each VC should contain code that is responsible for UI
 - Each VC should have VM (view model) class, that will contain all business logic. Use delegation to communicate with VC
@@ -41,7 +41,7 @@
  * User.swift
  * User+Convert.swift
 
-####Hints####
+######Hints######
 - Each model in separate folder
 - If we need some more functionality, add extension to model
  
