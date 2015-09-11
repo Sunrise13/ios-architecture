@@ -34,17 +34,26 @@ class MyViewcontroller: UIViewController {
 }
 
 // MARK: - UITableViewDataSource
+
 extension MyViewcontroller: UITableViewDataSource {
   // table view data source methods
 }
 
 // MARK: - UIScrollViewDelegate
+
 extension MyViewcontroller: UIScrollViewDelegate {
   // scroll view delegate methods
 }
 ```
 
+####MARK Format####
 
+* Spacing. 1 line between MARK and method (or group of methods)
+* Capitalize 1st letter of description
+
+```
+// MARK: - Description
+```
 
 
 
